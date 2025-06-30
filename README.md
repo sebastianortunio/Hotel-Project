@@ -16,11 +16,11 @@ This project is about a hotel business that requires a data analyst service to u
 ### Data Overview:
 
  - The data that the company provide was of five tables.
- - dbo.2018$: This table contains all the information of the hotel business during 2018. It is classified in 32 columns and 21,996 rows. 
- - dbo.2019$: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 79,264 rows. 
- - dbo.2020$: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 40,687 rows.
- - dbo.market_segment$: This table contains all the information about discounts that the business offers. The company offers 8 different tyoes of discounts.
- - dbo.meal_cost$: This table contains the meals that are offered in hotels. It contains 4 meals and one meal that is undefined.
+ - Year_2018: This table contains all the information of the hotel business during 2018. It is classified in 32 columns and 21,996 rows. 
+ - Year_2019: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 79,264 rows. 
+ - Year_2020: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 40,687 rows.
+ - dbo.market_segment: This table contains all the information about discounts that the business offers. The company offers 8 different tyoes of discounts.
+ - dbo.meal_cost: This table contains the meals that are offered in hotels. It contains 4 meals and one meal that is undefined.
 
 ## Business Requirements:
 ### Is their hotel revenue growing by year?
