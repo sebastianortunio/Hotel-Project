@@ -23,7 +23,7 @@ This project is about a hotel business that requires a data analyst service to u
  - dbo.meal_cost: This table contains the meals that are offered in hotels. It contains 4 meals and one meal that is undefined.
 
 ## Business Requirements:
-### Is their hotel revenue growing by year?
+### 1. Is their hotel revenue growing by year?
 - To have a better understanding of the revenue year by year, we can take a look to this table created in power BI and SSMS:
 
 ![image](https://github.com/user-attachments/assets/870239f2-c367-4abb-a5ba-c408ac25333a)
@@ -38,3 +38,8 @@ This project is about a hotel business that requires a data analyst service to u
 - Resort Hotel has a higher revenue in 2018.
 - In 2019, City Hotel generated a significant growing revenue of $8,991,311.54.
 - In 2019, Resort Hotel also experienced a growing revenue of $6,311,680.8.
+
+### 2. Should the hotel increase the parking lot?
+
+    ![image](https://github.com/user-attachments/assets/18158da9-0e26-418f-a12a-fe80cec0a445)
+
