@@ -1,6 +1,7 @@
 # Hotel-Business-Project
 
-![image](https://github.com/user-attachments/assets/88c5ad5d-d444-4eec-843e-a09ce9ba74df)
+![image](https://github.com/user-attachments/assets/c36ea1bf-7f13-47c7-9094-c2a15bb1f0e6)
+
 
 
 ## Author: Sebastian Ortuno Barrero
