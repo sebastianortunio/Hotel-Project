@@ -36,5 +36,5 @@ This project is about a hotel business that requires a data analyst service to u
 - In 2020 the world experienced the COVID-19 Pademic, which can be a factor of why the revenue from both hotels drop down that year.
 - City Hotel generates more revenue than Resort Hotel in 2019 and 2020.
 - Resort Hotel has a higher revenue in 2018.
-- In 2019, City Hotel generated a significant growing revenue of 8,991,311.54.
-- In 2019, Resort Hotel also experienced a growing revenue of 6,311,680.8.
+- In 2019, City Hotel generated a significant growing revenue of $8,991,311.54.
+- In 2019, Resort Hotel also experienced a growing revenue of $6,311,680.8.
