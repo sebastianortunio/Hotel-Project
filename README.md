@@ -25,7 +25,8 @@ This project is about a hotel business that requires a data analyst service to u
 ### Is their hotel revenue growing by year?
 - To have a better understanding of the revenue year by year, we can take a look to this table created in power BI and SSMS:
 
-![image](https://github.com/user-attachments/assets/8abc59b0-3574-4b02-8936-ec9fdf033f29)
+![image](https://github.com/user-attachments/assets/870239f2-c367-4abb-a5ba-c408ac25333a)
+
 
 ![image](https://github.com/user-attachments/assets/37bd44a8-dae8-4bbb-9973-b333a5c95a1a)
 
