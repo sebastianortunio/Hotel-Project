@@ -44,6 +44,8 @@ This project is about a hotel business that requires a data analyst service to u
 
 ![image](https://github.com/user-attachments/assets/12d27a3c-aac5-4c70-b1b4-03389db6cbfe)
 
+- Our data shows us that the hotels have enough parking for their clients.
+- Out of the 100,687 reservations, only 8.63% requested a car parking.
 
 
 
