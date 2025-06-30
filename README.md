@@ -46,6 +46,9 @@ This project is about a hotel business that requires a data analyst service to u
 
 - Our data shows us that the hotels have enough parking for their clients.
 - Out of the 100,687 reservations, only 8.63% requested a car parking.
+- In 2020 the hotel had the most percentage of parking request. It was 16.55% out of 22,825 reservations in that year.
+
+### 3. 
 
 
 
