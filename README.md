@@ -42,7 +42,9 @@ This project is about a hotel business that requires a data analyst service to u
 
 ### 2. Should the hotel increase the parking lot?
 
-![image](https://github.com/user-attachments/assets/b2564368-2c86-42b3-b3a5-22af2587bc50)
+![image](https://github.com/user-attachments/assets/12d27a3c-aac5-4c70-b1b4-03389db6cbfe)
+
+
 
 
 
