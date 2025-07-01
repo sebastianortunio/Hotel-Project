@@ -31,8 +31,6 @@ This project analyzes hotel business data from 2018 to 2020 to help the company 
 ## 1. Is their hotel revenue growing by year?
 - To have a better understanding of the revenue year by year, we can take a look to this table created in power BI and SSMS:
 
-![image](https://github.com/user-attachments/assets/870239f2-c367-4abb-a5ba-c408ac25333a)
-
 
 ![image](https://github.com/user-attachments/assets/37bd44a8-dae8-4bbb-9973-b333a5c95a1a)
 
