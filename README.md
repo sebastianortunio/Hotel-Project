@@ -6,24 +6,28 @@
 
 ## Author: Sebastian Ortuno Barrero
 
-This project is about a hotel business that requires a data analyst service to understand their data and get to know business requirements from the company. The owners of this busines want to know three specific insights:
+## Overview
+This project analyzes hotel business data from 2018 to 2020 to help the company understand its performance and make better decisions. The company operates two types of hotels : City Hotels and Resort Hotels, and wanted answers to three key questions:
 
-- Is the hotel revenue growing by year?
-- Should the hotel increase the parking lot?
-- What trends does the data present on average daily rate and guests to explore seasonability?
+1. Is the hotel revenue growing year over year?  
+2. Should the hotel increase the size of its parking lot?  
+3. What seasonal patterns can be seen in revenue and guest behavior?
 
-  For this project I used SSMS to do some data exploration and Power BI to make an easy understandable dashboard for the hotel owners.
+---
+
+## Tools Used
+- **SQL Server Management Studio (SSMS)** for data exploration and preparation  
+- **Power BI** for creating interactive dashboards and visualizations
 
 ## Data Overview:
 
- - The data that the company provide was of five tables.
- - Year_2018: This table contains all the information of the hotel business during 2018. It is classified in 32 columns and 21,996 rows. 
- - Year_2019: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 79,264 rows. 
- - Year_2020: This table contains all the information of the hotel business during 2019. It is classified in 32 columns and 40,687 rows.
- - dbo.market_segment: This table contains all the information about discounts that the business offers. The company offers 8 different tyoes of discounts.
- - dbo.meal_cost: This table contains the meals that are offered in hotels. It contains 4 meals and one meal that is undefined.
+- **Year_2018**: Hotel data for 2018, with 32 columns and 21,996 rows.  
+- **Year_2019**: Hotel data for 2019, with 32 columns and 79,264 rows.  
+- **Year_2020**: Hotel data for 2020, with 32 columns and 40,687 rows.  
+- **dbo.market_segment**: Information about 8 types of discounts offered by the hotel.  
+- **dbo.meal_cost**: Details about 4 meals offered plus one undefined meal type.
 
-# Business Requirements:
+# Key insights:
 ## 1. Is their hotel revenue growing by year?
 - To have a better understanding of the revenue year by year, we can take a look to this table created in power BI and SSMS:
 
@@ -33,33 +37,28 @@ This project is about a hotel business that requires a data analyst service to u
 ![image](https://github.com/user-attachments/assets/37bd44a8-dae8-4bbb-9973-b333a5c95a1a)
 
 
-- Analyzing the data we can observe that the revenue for both hotels increased in 2019 but had a significant drop in 2020.
-- In 2020 the world experienced the COVID-19 Pademic, which can be a factor of why the revenue from both hotels drop down that year.
-- City Hotel generates more revenue than Resort Hotel in 2019 and 2020.
-- Resort Hotel has a higher revenue in 2018.
-- In 2019, City Hotel generated a significant growing revenue of $8,991,311.54.
-- In 2019, Resort Hotel also experienced a growing revenue of $6,311,680.8.
+- Both hotels saw revenue growth from 2018 to 2019.  
+- In 2020, revenue dropped significantly, likely due to the COVID-19 pandemic impacting travel.  
+- City Hotels generated more revenue than Resort Hotels in 2019 and 2020.  
+- Resort Hotels earned more in 2018 but experienced a larger drop later.
 
 ## 2. Should the hotel increase the parking lot?
 
 ![image](https://github.com/user-attachments/assets/12d27a3c-aac5-4c70-b1b4-03389db6cbfe)
 
-- Out of the 100,687 reservations, only 8.63% requested a car parking.
-- In 2020 the Resort Hotel had the most percentage of parking request. It was 16.55% out of 22,825 reservations in that year.
-- There is a decreasing trend from 9.50% in 2018 to 7.52% in 2020.
-- This suggests that expanding the parking lot may not be necessary.
+- Only 8.63% of all reservations requested parking.  
+- The Resort Hotel had the highest parking requests in 2020 at 16.55%.  
+- Parking demand decreased from 9.50% in 2018 to 7.52% in 2020.  
+- This suggests expanding the parking lot is not necessary at this time.
 
 
-## 3. What are the revenue trends in the data?
+## 3. Seasonal Revenue Trends
 
 ![image](https://github.com/user-attachments/assets/e63b8940-253a-4a24-b4ad-9407da3be7f1)
 
-- Revenue trends for both hotel types fluctuate seasonally, with peaks and valleys over time.
-- Resort Hotels (orange line) show strong revenue spikes during the summer months (around July) of each year, indicating strong seasonal demand likely related to vacations.
-- City Hotels (blue line) maintain a steadier revenue throughout the year with less dramatic peaks, suggesting more consistent business travel or urban demand.
--  Revenue for both hotel types generally rises from 2018 through mid-2019, followed by some fluctuations.
-- Noticeable decline in revenue for both hotel types starting early 2020, likely reflecting the impact of COVID-19 pandemic on travel and hospitality.
-- Resort hotels have higher peaks but lower troughs compared to city hotels, consistent with their more seasonal business model.
+- Resort Hotels show strong revenue peaks in summer months (around July), likely driven by vacation travel.  
+- City Hotels maintain steadier revenue throughout the year, indicating consistent business travel demand.  
+- Revenue generally increased from 2018 through mid-2019 before declining in early 2020.
 
 ## Conclusion
 
