@@ -50,6 +50,7 @@ This project is about a hotel business that requires a data analyst service to u
 
 ### 3. 
 
+![image](https://github.com/user-attachments/assets/e63b8940-253a-4a24-b4ad-9407da3be7f1)
 
 
 
