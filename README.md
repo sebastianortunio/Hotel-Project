@@ -48,9 +48,15 @@ This project is about a hotel business that requires a data analyst service to u
 - Out of the 100,687 reservations, only 8.63% requested a car parking.
 - In 2020 the hotel had the most percentage of parking request. It was 16.55% out of 22,825 reservations in that year.
 
-### 3. 
+### 3. What are the revenue trends in the data?
 
 ![image](https://github.com/user-attachments/assets/e63b8940-253a-4a24-b4ad-9407da3be7f1)
 
+- Revenue trends for both hotel types fluctuate seasonally, with peaks and valleys over time.
+- Resort Hotels (orange line) show strong revenue spikes during the summer months (around July) of each year, indicating strong seasonal demand likely related to vacations.
+- City Hotels (blue line) maintain a steadier revenue throughout the year with less dramatic peaks, suggesting more consistent business travel or urban demand.
+-  Revenue for both hotel types generally rises from 2018 through mid-2019, followed by some fluctuations.
+- Noticeable decline in revenue for both hotel types starting early 2020, likely reflecting the impact of COVID-19 pandemic on travel and hospitality.
+- Resort hotels have higher peaks but lower troughs compared to city hotels, consistent with their more seasonal business model.
 
 
