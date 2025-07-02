@@ -1,4 +1,11 @@
-/* Business requierements:
+/*
+
+Cleaning data in SQL
+
+Author: Sebastian Ortuno
+
+
+Business requierements:
 1. Is our hotel revenue growing by year?
 We have two hotel types so it would be good to segment revenue by hotel type.
 
