@@ -172,12 +172,13 @@ ORDER BY reservation_status_date;
 
 -- Insights:
 
--- Revenue trends for both hotel types fluctuate seasonally, with peaks and valleys over time.
--- Resort Hotels (orange) peak strongly each summer, reflecting vacation demand.
--- City Hotels (blue) have steadier, less variable revenue, indicating consistent urban/business travel.
--- Revenue generally rises from 2018 to mid-2019, then fluctuates.
--- Both types see a sharp decline from early 2020, likely due to COVID-19 impacts.
--- Resort hotels shows higher peaks and deeper troughs than city hotels, aligning with their seasonal nature.
+-- Revenue changes over time for both hotel types.
+-- Resort Hotels (orange line) make more money in summer. People travel more for vacations.
+-- City Hotels (blue line) make similar money every month. Business travel stays steady.
+-- From 2018 to mid-2019, revenue goes up.
+-- After that, it goes up and down.
+-- In early 2020, both hotels make much less money. This is likely because of COVID-19.
+-- Resort Hotels have bigger ups and downs than City Hotels. This is normal for vacation hotels.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
