@@ -1,3 +1,4 @@
+# HOSPITALITY REVENUE & DEMAND ANALYTICS DASHBOARD -SQL & Power BI 
 # Hotel Business Analytics: Revenue, Parking, and Seasonality Insights
 
 ![image](https://github.com/user-attachments/assets/c36ea1bf-7f13-47c7-9094-c2a15bb1f0e6)
