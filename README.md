@@ -14,6 +14,7 @@ This project analyzes hotel business data from 2018 to 2020 to help the company 
 2. Should the hotel increase the size of its parking lot?  
 3. What seasonal patterns can be seen in revenue and guest behavior?
 
+**Dashboard Link:** https://app.powerbi.com/groups/me/reports/b732fcbc-e951-4193-aaa0-f20ebccaee50/645cb071b16bed2dd07d?experience=power-bi
 ---
 
 ## Tools Used
